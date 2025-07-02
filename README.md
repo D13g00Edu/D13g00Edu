@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hola, soy Diego
 
-<!--
-**D13g00Edu/D13g00Edu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador fullstack, apasionado por los datos, desarrollo web y la analítica de datos. Me encanta crear soluciones limpias, eficientes y bien documentadas.
 
-Here are some ideas to get you started:
+## 🧰 Tecnologías y herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+## 🚀 Proyectos destacados
+
+- 🔧 [Sistema de Reportes Automatizados]: Automatización de reportes en Python y Power BI.
+- 🌐 [API REST con FastAPI]: Backend documentado con Swagger.
+- 📊 [Dashboard de Auditoría]: Visualización interactiva de KPIs con Power BI.
+
+## 📫 Contacto
+
+- 💼 [LinkedIn] https://www.linkedin.com/in/diego-eduardo-huaman-mayanga-9a012b246/
+- ✉️ diegohmayanga@hotmail.com
