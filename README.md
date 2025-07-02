@@ -1,8 +1,8 @@
-# 👋 Hola, soy Diego
+# 👋 Hi, I'm Diego
 
-Soy un desarrollador fullstack, apasionado por los datos, desarrollo web y la analítica de datos. Me encanta crear soluciones limpias, eficientes y bien documentadas.
+I'm a fullstack developer, passionate about data, web development, and data analytics. I love creating clean, efficient, and well-documented solutions.
 
-## 🧰 Tecnologías y herramientas
+## 🧰 Technologies and tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -10,13 +10,13 @@ Soy un desarrollador fullstack, apasionado por los datos, desarrollo web y la an
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-## 🚀 Proyectos destacados
+## 🚀Featured Projects
 
 - 🔧 [Sistema de Reportes Automatizados]: Automatización de reportes en Python y Power BI.
-- 🌐 [API REST con FastAPI]: Backend documentado con Swagger.
+- 🌐 [API REST con FastAPI]: Backend documented with Swagger. 
 - 📊 [Dashboard de Auditoría]: Visualización interactiva de KPIs con Power BI.
 
-## 📫 Contacto
+## 📫 Contact
 
-- 💼 [LinkedIn] https://www.linkedin.com/in/diego-eduardo-huaman-mayanga-9a012b246/
+- 💼 https://www.linkedin.com/in/diego-eduardo-huaman-mayanga-9a012b246/
 - ✉️ diegohmayanga@hotmail.com
