@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Diego
 
-I'm a fullstack developer, passionate about data, web development, and data analytics. I love creating clean, efficient, and well-documented solutions.
+I'm a data engineer. I love creating clean, efficient, and well-documented solutions.
 
 ## 🧰 Technologies and tools
 
